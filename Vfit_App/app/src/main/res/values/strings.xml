@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Joylux</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="scan">SCAN</string>
+    <string name="connect">Connect</string>
+    <string name="not_recieved">not recieved!!</string>
+    <string name="press_the_button">Press the button!!</string>
+    <string name="pressure_graph">Pressure graph</string>
+    <string name="accelerometer_x_values">Accelerometer X values</string>
+    <string name="select_therapy">Select therapy:</string>
+    <string name="vibration_select">Vibration Select:</string>
+    <string name="vibration_mode">Vibration Mode:</string>
+    <string name="_10_min">10 min</string>
+    <string name="_5_min">5 min</string>
+</resources>
